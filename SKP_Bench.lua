@@ -1,0 +1,16 @@
+-- -----------------------------------------------------------------------------
+-- SimpleDKP
+-- -----------------------------------------------------------------------------
+-- Author: Luma
+-- Server: Emerald Dream, Feenix
+-- -----------------------------------------------------------------------------
+
+--
+-- whisper !bench to add yourself to bench
+-- random whisper to check if AFK
+--
+-- All benchers listed to be called in
+--
+-- In raid = not on bench
+-- Out of raid = automatically on bench
+--

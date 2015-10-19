@@ -1,0 +1,13 @@
+## Title: _SimpleDKP
+## Interface: 40200
+## Notes: Simple DKP Tracker.
+## Version: 3.4
+## Author: Luma
+## SavedVariables: SimpleDKP_LootTable
+
+SimpleDKP.lua
+SDKP_Whispers.lua
+SDKP_Utility.lua
+SDKP_ItemList.lua
+SDKP_Bidding.lua
+SDKP_Announcements.lua
